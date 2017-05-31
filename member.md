@@ -1,1 +1,2 @@
 Kanda Keijiro
+Inoue Shogo
