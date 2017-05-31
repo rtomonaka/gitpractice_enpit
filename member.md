@@ -1,2 +1,3 @@
-Kanda Keijiro
-Inoue Shogo
+* Kanda Keijiro
+* Inoue Shogo
+* Okamura
