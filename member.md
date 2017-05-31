@@ -1,4 +1,4 @@
 * Kanda Keijiro
 * Inoue Shogo
-* TOMONAKA
+* Tomonaka Ryota
 * Inumaru
